@@ -1,0 +1,8 @@
+numpy
+librosa
+matplotlib
+seaborn
+joblib
+sounddevice
+scikit-learn
+tensorflow
